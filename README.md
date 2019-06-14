@@ -1,1 +1,1 @@
-# auto_pingjiao
+# 校园网自动评教脚本
