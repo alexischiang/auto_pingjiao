@@ -46,7 +46,7 @@ python auto_pj.py
 ![](http://kan.027cgb.com/623423/Inkednum_LI.jpg)
 #### 根据提示输入模式
 模式0：<br>
-![](http://kan.027cgb.com/623423/mode0.PNG)
+![](http://kan.027cgb.com/623423/mode0.PNG)<br>
 模式1：<br>
 ![](http://kan.027cgb.com/623423/mode1.PNG)
 
