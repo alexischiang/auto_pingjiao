@@ -43,7 +43,7 @@ python auto_pj.py
 #### 首先根据提示输入验证码（如验证码复杂可以单击替换）
 ![](https://i.loli.net/2019/06/14/5d03a962d1caf34485.png)
 #### 输入评教科目数
-![](https://i.loli.net/2019/06/14/5d03a9ab18f4839573.png)
+![](http://kan.027cgb.com/623423/Inkednum_LI.jpg)
 #### 根据提示输入模式
 模式0：
 ![](http://kan.027cgb.com/623423/mode0.PNG)
