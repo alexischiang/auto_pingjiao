@@ -45,9 +45,9 @@ python auto_pj.py
 #### 输入评教科目数
 ![](http://kan.027cgb.com/623423/Inkednum_LI.jpg)
 #### 根据提示输入模式
-模式0：
+模式0：<br>
 ![](http://kan.027cgb.com/623423/mode0.PNG)
-模式1
+模式1：<br>
 ![](http://kan.027cgb.com/623423/mode1.PNG)
 
 ## Log
