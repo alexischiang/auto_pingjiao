@@ -113,5 +113,5 @@ class auto_pj:
 
 
 if __name__ == "__main__":
-    my_pj = auto_pj('1607040212','abc123456')
+    my_pj = auto_pj('','')#你的账号，你的密码
     my_pj.main()
