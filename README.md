@@ -8,7 +8,7 @@
         <img src="https://img.shields.io/badge/Python-3.7-blue.svg">
         </a>
     <a href="https://github.com/alexischiang/myWeiboSpider/stargazers">
-        <img src="https://img.shields.io/github/stars/alexischiang/myWeiboSpider.svg?logo=github">
+        <img src="https://img.shields.io/github/stars/alexischiang/auto_pingjiao.svg?logo=github">
         </a>
 </p>
 
